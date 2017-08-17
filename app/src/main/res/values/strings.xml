@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Medic</string>
+    <string name="blood_prompt">Choose a country</string>
+    <string-array name="blood_arrays">
+        <item>A+</item>
+        <item>A-</item>
+        <item>O+</item>
+        <item>O-</item>
+        <item>AB-</item>
+        <item>AB+</item>
+        <item>B+</item>
+        <item>B-</item>
+    </string-array>
+</resources>
